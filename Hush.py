@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-OnionTalk (Python Port)
+Hush (Python Port)
 
 This file is a fully interoperable port of the Go implementation.
 
