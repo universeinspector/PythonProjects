@@ -135,7 +135,7 @@ Network-level anonymity
 
 Path obfuscation
 
-Hush provides:
+## Hush provides:
 
 End-to-end encryption
 
