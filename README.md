@@ -1,5 +1,6 @@
 ﻿#  Hush  
-*(originally forked from Ch1ff3rpunk/OnionTalk (Go))*
+*(originally forked from Ch1ff3rpunk/OnionTalk (Go)
+decided to try it with python instead of Go)*
 
 Secure talk sessions over Tor.  
 Because yelling secrets into the internet is like writing on a billboard.
@@ -210,3 +211,4 @@ I dont endorse and are not responsible for any illegal or malicious use of this 
 
 Use responsibly.
 Encryption is a tool — not a justification. 
+
